@@ -1,0 +1,1 @@
+{"DatabaseType":"mssql","DatabaseIP":"127.0.0.1","DatabasePort":1433,"DatabaseID":"sa","DataBasePW":"12345","DataBaseName":"Test02","ServerListenPort":3000}
